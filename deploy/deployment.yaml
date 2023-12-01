@@ -18,7 +18,7 @@ spec:
         app: nginx-deployment
     spec:
       containers:
-        - image: kiyo35/nginx:33
+        - image: kiyo35/nginx:34
           name: nginx
           resources: {}
 status: {}
